@@ -1,5 +1,5 @@
 """
-   DIRAC - Distributed Infrastructure with Remote Agent Control
+   DIRAC -  Distributed Infrastructure with Remote Agent Control
 
    The distributed data production and analysis system of LHCb and other VOs.
 
